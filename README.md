@@ -1,16 +1,6 @@
-# Netflix-Kaggle-Dataset
-In the first iteration of Project 1 with the Nextflix dataset,
-I have done some data exploration and visualization.
-Then I move on to concentrating on South America,
-where the top three directors worked mainly in Stand-up and TV-MA movies.
+# 01_Netflix_Kaggle_Dataset_Celia_Fuentes
+In the first iteration with the Kaggle Nextflix dataset, the goal was to practice some basic data cleaning, do some exploration, and gain some insights into the dataset. 
 
-The main sections:
-- uploading Kaggle dataset on Colab
-- Exploration, Cleaning an Visualization
-- Focused on South America for certain question
 
-# Updated_Project_1_Netflix_Data_Celia_Fuentes:
-In this updated Project 1, I have scraped two datasets from imdb
-and have added them to make one huge dataset with the Netflix data. 
-I provide new visualization, and attempt a simple machine learning algorithm
-to attempt to predict the class of rating the movie/tv show belongs to.
+# 02_Netflix_IMDB_Celia_Fuentes
+In this update, I scraped two datasets from imdb and added them to make one huge dataset with the netflix data. I provided new visualization, and attempted a simple machine learning algorithm to predict the class of rating the movie/tv show belongs to.
